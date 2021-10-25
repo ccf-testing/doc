@@ -1,0 +1,28 @@
+a.home {
+	color: #000000;
+	font-size: 120%;
+	text-decoration: none;
+}
+
+a.home:visited {
+	color: #000000;
+}
+
+a.home:hover {
+	color: #1F1FFF;
+}
+
+a.doc {
+	color: #000000;
+	font-weight: bold;
+	font-size: 120%;
+	text-decoration: none;
+}
+
+a.doc:visited {
+	color: #000000;
+}
+
+a.doc:hover {
+	color: #1F1FFF;
+}

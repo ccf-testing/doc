@@ -1,0 +1,20 @@
+[book]
+authors = ["The CCF Developers <developers@ccf-testing.org>"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CCF - Compilation-based Concolic Fuzzer"
+description = "Documentation for the ccf project."
+
+[rust]
+edition = "2021"
+
+[output.html]
+additional-css = ["custom.css"]
+mathjax-support = false
+git-repository-url = "https://github.com/ccf-testing/"
+edit-url-template = "https://github.com/ccf-testing/doc/edit/main/{path}"
+
+[output.html.fold]
+enable = false
+level = 0
