@@ -10,5 +10,5 @@ $ ./ws build
 ```
 
 Running `./ws build` can take some time when first run, as it will fetch all sources and build them, which includes, e.g., building a version of LLVM.
-Subsequent usages of `./ws build` will run incrementally, only recompiling what needs to be recompiled dependening on changes that were made (if any).
+Subsequent usages of `./ws build` will run incrementally, only recompiling what needs to be recompiled depending on changes that were made (if any).
 Also see the `README.md` file in the repository, it gives additional usage instructions for the `./ws` command.
