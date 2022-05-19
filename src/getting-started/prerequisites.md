@@ -12,10 +12,10 @@ Install the following required packages:
 # apt install git pipenv cmake ccache rsync ninja-build libgmp-dev autoconf
 ```
 
-### Python 3.9
+### Python 3.10
 
-Building the project requires Python 3.9, which is (at the time of writing) not available in the official Ubuntu 20.04 package repositories.
-Since multiple ways to acquire this Python version exist (e.g., using a user-provided ppa, installing from source or using a tool such as Pyenv), we leave this part to the user, and assume Python 3.9 to be installed in the rest of this guide.
+Building the project requires Python 3.10, which is (at the time of writing) not available in the official Ubuntu 20.04 package repositories.
+Since multiple ways to acquire this Python version exist (e.g., using a user-provided ppa, installing from source or using a tool such as Pyenv), we leave this part to the user, and assume Python 3.10 to be installed in the rest of this guide.
 
 ### Rustup
 
